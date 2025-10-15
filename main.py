@@ -14,4 +14,4 @@ def main():
     contents=get_book_test(rel_path)
     show_report(count_char(contents),count_words(contents))
     
-main()gi
+main()
